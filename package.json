@@ -1,0 +1,32 @@
+{
+  "name": "next.jsprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "dev": "next dev",
+    "build": "mext build",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.8.1",
+    "next": "^14.2.8",
+    "next-cloudinary": "^6.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "daisyui": "^4.12.10",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
+  }
+}
